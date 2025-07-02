@@ -1,5 +1,5 @@
 # Free Online Business Cards
-
+ 
 A completely free, open-source digital business card template that eliminates the need for expensive monthly subscriptions or vendor lock-in. Many companies charge $20-30+ for digital business cards, often with recurring fees. This project provides a scalable, customizable solution using freely available technologies.
 
 ## 🎯 What is this?
